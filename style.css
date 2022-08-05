@@ -36,14 +36,20 @@
 .content-text {
     font-size: 1.5vw;
 }
+.content-text1 {
+    font-size: 1.5vw;
+}
 
 @media only screen and (max-width: 890px) {
     .content-text {
         font-size: 4.5vw !important;
     }
-
+    .content-text1 {
+        font-size: 3.5vw !important;
+    }
     .button-section {
         flex-direction: column;
+        
     }
 }
 
