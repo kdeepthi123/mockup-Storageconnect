@@ -30,7 +30,7 @@
 }
 
 .content-header {
-    font-size: 4.5vw;
+    font-size: 6.5vw;
 }
 
 .content-text {
@@ -39,7 +39,7 @@
 
 @media only screen and (max-width: 890px) {
     .content-text {
-        font-size: 2.5vw !important;
+        font-size: 4.5vw !important;
     }
 
     .button-section {
